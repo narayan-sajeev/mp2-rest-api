@@ -50,7 +50,7 @@ Bottleneck @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs
 Brotli @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_27zk0eqdh0/croot/brotli-split_1714483157007/work
 cached-property @ file:///home/conda/feedstock_root/build_artifacts/cached_property_1615209429212/work
 cachetools @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_6a4ekiifd5/croot/cachetools_1713977095290/work
-certifi==2025.7.14
+certifi==2026.10.18
 cffi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_06ndtibm2c/croot/cffi_1726856446111/work
 chardet @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/chardet_1699244713642/work
 charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
@@ -73,7 +73,7 @@ conda_package_streaming @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt5
 constantly @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_efw7euxpjs/croot/constantly_1703165606144/work
 contourpy @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/contourpy_1701814001737/work
 cookiecutter @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_38jzqhs2jm/croot/cookiecutter_1711059824217/work
-cryptography==41.0.7
+cryptography==50.0.0
 cssselect @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_47oh46v5h0/croot/cssselect_1707339886455/work
 cssselect2==0.8.0
 curl_cffi==0.12.0
@@ -81,7 +81,7 @@ cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
 cytoolz @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f0etqooaak/croot/cytoolz_1701723613874/work
 dask @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_aaiijmokbm/croot/dask-core_1725461363220/work
 dask-expr @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_e54n8hzk7f/croot/dask-expr_1725523003908/work
-datasette==0.65.1
+datasette==0.65.2
 datasette-cluster-map==0.18.2
 datasette-edit-schema==0.7.1
 datasette-edit-tables==0.3a2
@@ -115,7 +115,7 @@ frozenlist @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/fro
 fsspec @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_436le7786l/croot/fsspec_1724855598709/work
 fuzzywuzzy==0.18.0
 gensim @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5cdoei19at/croot/gensim_1725057952958/work
-geopandas==1.1.1
+geopandas==1.1.2
 gitdb @ file:///tmp/build/80754af9/gitdb_1617117951232/work
 GitPython @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_ebpnpowk3c/croot/gitpython_1720455037823/work
 greenlet==3.2.3
@@ -225,7 +225,7 @@ numba @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_adaw
 numexpr @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/numexpr_1699237935415/work
 numpy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a51i_mbs7m/croot/numpy_and_numpy_base_1708638620867/work/dist/numpy-1.26.4-cp312-cp312-macosx_11_0_arm64.whl#sha256=37afb6b734a197702d848df93bd67c10b52f6467d56e518950d84b6b1c949d27
 numpydoc @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_69xghc3i3n/croot/numpydoc_1718279166747/work
-oauthlib==3.3.1
+oauthlib==4.0.0
 openai-whisper==20250625
 openpyxl @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_96hhik4ygv/croot/openpyxl_1721752931204/work
 opentelemetry-api==1.45.2
@@ -261,7 +261,7 @@ prawcore==2.4.0
 prometheus-client @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/prometheus_client_1699242791845/work
 prompt_toolkit==3.0.50
 Protego @ file:///tmp/build/80754af9/protego_1598657180827/work
-protobuf==4.25.3
+protobuf==5.29.6
 psutil @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/psutil_1699248249804/work
 ptyprocess==0.7.0
 pure_eval==0.2.3
@@ -283,7 +283,7 @@ pydyf==0.11.0
 pyee==13.0.0
 pyerfa @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_4b_blcl5tb/croot/pyerfa_1717700766739/work
 pyflakes @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_bbjb40dmuh/croot/pyflakes_1708962969108/work
-Pygments==2.19.1
+Pygments==2.20.0
 PyJWT @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_e55dbbf3h7/croot/pyjwt_1715094746385/work
 pylint @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pylint_1699242870766/work
 pylint-venv @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_80rsj1kckp/croot/pylint-venv_1709837627074/work
@@ -294,7 +294,7 @@ pyobjc-framework-CoreServices @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8
 pyobjc-framework-FSEvents @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_c2fjwa8ak_/croot/pyobjc-framework-fsevents_1710193216694/work
 pyodbc @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_6fm48uguvm/croot/pyodbc_1725560248566/work
 pyogrio==0.11.0
-pyOpenSSL==23.2.0
+pyOpenSSL==26.0.0
 pyparsing @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_8a270krrj3/croot/pyparsing_1725041637835/work
 pyphen==0.17.2
 pyproj==3.7.1
@@ -310,7 +310,7 @@ python-Levenshtein==0.27.1
 python-lsp-black @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_82mkiw3l7w/croot/python-lsp-black_1709232912184/work
 python-lsp-jsonrpc @ file:///croot/python-lsp-jsonrpc_1708962872556/work
 python-lsp-server @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_bdnoklk478/croot/python-lsp-server_1708971744028/work
-python-multipart==0.0.20
+python-multipart==0.0.31
 python-slugify @ file:///tmp/build/80754af9/python-slugify_1620405669636/work
 pytoolconfig @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_c0c43xm9fv/croot/pytoolconfig_1701728714940/work
 pytrends==4.9.2
@@ -415,7 +415,7 @@ unicodedata2 @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/a
 Unidecode @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_33gnubyv29/croot/unidecode_1724790055767/work
 update-checker==0.18.0
 uri-template @ file:///home/conda/feedstock_root/build_artifacts/uri-template_1733323593477/work/dist
-urllib3==2.5.0
+urllib3==2.8.0
 userpath==1.9.2
 uvicorn==0.35.0
 uvloop==0.23.0
@@ -425,7 +425,7 @@ w3lib @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/w3lib_17
 watchdog @ file:///Users/builder/cbouss/crwatchdog/watchdog_1717177010913/work
 watchfiles==1.3.0
 wcwidth==0.2.13
-weasyprint==66.0
+weasyprint==70.0
 webcolors @ file:///home/conda/feedstock_root/build_artifacts/webcolors_1733359735138/work
 webdriver-manager==4.0.2
 webencodings @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/webencodings_1699243630039/work
@@ -433,7 +433,7 @@ websocket-client @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp
 websockets==15.0.1
 Werkzeug @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5bnbxlhunm/croot/werkzeug_1716533322814/work
 whatthepatch @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/whatthepatch_1699243659982/work
-wheel==0.44.0
+wheel==0.46.2
 widgetsnbextension @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_45ynevdsp5/croot/widgetsnbextension_1710960054121/work
 wrapt @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/wrapt_1699240702378/work
 wsproto==1.2.0
