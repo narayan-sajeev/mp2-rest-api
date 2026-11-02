@@ -74,6 +74,9 @@ class DatasetStorage:
         # Update df, create copy so it doesn't point to same df
         self._store[dataset_id]['df'] = df.copy()
 
+        # Log message
+        logger.debug(f'Updated dataset: id={dataset_id}, rows={len(df)}')
+
         return True
 
     # Clear all data
